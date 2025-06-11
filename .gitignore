@@ -1,0 +1,177 @@
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+__MACOSX/
+# Icon\r
+._*
+
+### Windows ###
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+ehthumbs.db
+*.stackdump
+
+### Ubuntu / GNOME ###
+.Trash-*
+.directory
+.nfs*
+.fuse_hidden*
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-wheel-metadata/
+share/python-wheels/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.env/
+.venv/
+.pytest_cache/
+
+# PyInstaller
+*.manifest
+*.spec
+
+### C/C++ ###
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+
+# Static & shared libraries
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Executables and debug/symbol files
+*.exe
+*.out
+*.app
+*.elf
+*.pdb
+
+# Dependency and build directories
+cmake-build-*/
+build*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+Makefile.user
+*.make
+
+# IDEs & editors
+*.vcxproj*
+*.sln
+.vscode/
+
+### Java ###
+# Maven
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+*.classpath
+*.project
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbdist/
+dist/
+
+# Java artifacts
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.car
+*.java~ 
+
+### Logs ###
+*.log
+
+### Misc ###
+# coverage reports
+coverage/
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Temporary files
+*.tmp
+*.swp
+*~

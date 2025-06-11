@@ -1,0 +1,15 @@
+QFrame#Header {
+
+    background-color: #213045;
+    border-radius: 6px;
+}
+
+QWidget#LNContainer{
+
+    background-color: transparent;
+}
+
+QLabel#Logo {
+
+    background-color: transparent;
+}

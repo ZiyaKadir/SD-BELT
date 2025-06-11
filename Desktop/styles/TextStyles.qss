@@ -1,0 +1,6 @@
+QLabel#Name {
+    background-color: transparent;
+    color: White;
+    font-family: "Segoe UI", sans-serif;
+    font-weight: bold;
+}

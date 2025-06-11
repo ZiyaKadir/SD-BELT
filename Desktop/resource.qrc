@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>styles/CentralWindow.qss</file>
+        <file>styles/MainWindow.qss</file>
+        <file>styles/img/Logo.png</file>
+        <file>styles/TextStyles.qss</file>
+        <file>styles/Header.qss</file>
+        <file>styles/img/CamerasLogo.png</file>
+        <file>styles/img/DashboardLogo.png</file>
+        <file>styles/img/LogsLogo.png</file>
+        <file>styles/img/Notify.png</file>
+        <file>styles/img/ReverseTheFlow.png</file>
+        <file>styles/img/Stop.png</file>
+        <file>styles/DashboardActionButton.qss</file>
+        <file>styles/img/IncreaseArrow.png</file>
+        <file>styles/img/Ellipse.png</file>
+        <file>styles/MenuButton.qss</file>
+        <file>styles/MenuButtonSelected.qss</file>
+        <file>styles/img/DebugLogo.png</file>
+        <file>styles/img/cpu.png</file>
+        <file>styles/img/ram.png</file>
+        <file>styles/img/thermometer.png</file>
+        <file>styles/img/bad.png</file>
+        <file>styles/img/good.png</file>
+    </qresource>
+</RCC>
